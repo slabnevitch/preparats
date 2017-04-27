@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "SegoeUIRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/curentFonts/SegoeUIRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/curentFonts/SegoeUIRegular.woff") format("woff"), url("../fonts/curentFonts/SegoeUIRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "SegoeUISemiBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/curentFonts/SegoeUISemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/curentFonts/SegoeUISemiBold.woff") format("woff"), url("../fonts/curentFonts/SegoeUISemiBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "SegoeUIBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/curentFonts/SegoeUIBold.eot?#iefix") format("embedded-opentype"), url("../fonts/curentFonts/SegoeUIBold.woff") format("woff"), url("../fonts/curentFonts/SegoeUIBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "ALSSchlangesans-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/curentFonts/ALSSchlangesans-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/curentFonts/ALSSchlangesans-Bold.woff2") format("woff2"), url("../fonts/curentFonts/ALSSchlangesans-Bold.woff") format("woff"), url("../fonts/curentFonts/ALSSchlangesans-Bold.ttf") format("truetype"), url("../fonts/curentFonts/ALSSchlangesans-Bold.svg#ALSSchlangesans-Bold") format("svg"); }
+
+/*# sourceMappingURL=maps/fonts.css.map */

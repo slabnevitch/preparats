@@ -1,0 +1,101 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 1035px) {
+	.left-sidebar{
+		display: none;
+	}
+	.right-content{
+		width: 100%;
+		float: none;
+		padding-left: 15px;
+		padding-right: 15px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	.right-content__header{
+		max-width: 710px;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+		.icons__item{
+			width: 50%;
+			margin-bottom: 0;
+		}
+		.right-content__header{
+			max-width: 710px;
+		
+		}
+		.right-content__title{
+			line-height: 20px;
+		}
+}
+
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	.icons__item{
+		width: 100%;
+		//text-align: center;
+	}
+
+	.icons__item-inner{
+		//display: inline-block;
+		width: 80%;
+		margin: 0 auto;
+		margin-bottom: 30px;
+		
+	}
+
+	.right-content__header{
+		padding-left: 10px;
+		background-position: -250px 0;
+	}
+	
+	.par-title{
+		line-height: 20px;
+	}
+}
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+	.right-content__title{
+			text-align: center;
+		}
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
