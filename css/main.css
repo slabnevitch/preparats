@@ -206,7 +206,8 @@ ul, li {
   line-height: 20px;
   color: #456472;
   font-family: "SegoeUISemiBold", sans-serif;
-  font-style: italic; }
+  font-style: italic;
+  background-color: #F8FDFE; }
 
 .par-title {
   margin: 0;
