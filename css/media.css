@@ -60,7 +60,9 @@
 		padding-left: 10px;
 		background-position: -250px 0;
 	}
-	
+	.right-content__main-title{
+		font-size: 28px;
+	}
 	.par-title{
 		line-height: 20px;
 	}
